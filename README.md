@@ -54,7 +54,6 @@
 
 ![Stack](https://img.shields.io/badge/React-frontend-61DAFB?style=flat-square&logo=react)
 ![Stack](https://img.shields.io/badge/FastAPI-backend-009688?style=flat-square&logo=fastapi)
-![Stack](https://img.shields.io/badge/Claude%20API-AI%20engine-D4A017?style=flat-square)
 ![Stack](https://img.shields.io/badge/Supabase-database%20%2B%20auth-3ECF8E?style=flat-square&logo=supabase)
 ![Stack](https://img.shields.io/badge/Vercel-deployed-000000?style=flat-square&logo=vercel)
 
@@ -76,16 +75,6 @@
 | **Testing** | 32-test pytest suite for the extraction pipeline |
 | **SEO** | Per-page meta, OG/Twitter cards, JSON-LD, sitemap, robots.txt |
 | **Credits** | Live usage meter in the run bar |
-
-### Business snapshot
-
-```
-Starter     N$800/mo  &middot;  100 docs
-Business  N$2,500/mo  &middot;  500 docs
-Enterprise N$8,000/mo  &middot;  Unlimited + API
-```
-
-> Data hosted in Cape Town &middot; AES-256 at rest &middot; TLS 1.3 in transit &middot; On-prem option for government
 
 ---
 
