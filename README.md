@@ -2,9 +2,9 @@
 
 # Tyrone
 
-### AI Engineer Â· Full-Stack Developer Â· Startup Founder
+### AI Engineer &middot; Full-Stack Developer &middot; Startup Founder
 
-*Building production AI infrastructure for Africa â€” Windhoek, Namibia*
+*Building production AI infrastructure for Africa — Windhoek, Namibia*
 
 [![Klarifi](https://img.shields.io/badge/Klarifi-AI%20Document%20Intelligence-4b163d?style=for-the-badge&logoColor=white)](https://klarifi.tech)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,32 +23,32 @@
 
 ---
 
-## ðŸ† Competition Record
+## 🏆 Competition Record
 
 <table>
 <tr>
-<td align="center"><strong>ðŸ¥‡ 1st Place</strong></td>
-<td><strong>Namibia Public Sector Innovation Hackathon 2024</strong><br/>Public Sector Track â€” Team Guardian AI</td>
+<td align="center"><strong>🥇 1st Place</strong></td>
+<td><strong>Namibia Public Sector Innovation Hackathon 2024</strong><br/>Public Sector Track — Team Guardian AI</td>
 </tr>
 <tr>
-<td align="center"><strong>ðŸ¥‡ 1st Place</strong></td>
+<td align="center"><strong>🥇 1st Place</strong></td>
 <td><strong>NCRST Road Safety Hackathon</strong><br/>Road Safety Track</td>
 </tr>
 <tr>
-<td align="center"><strong>ðŸ… Top 5</strong></td>
+<td align="center"><strong>🏅 Top 5</strong></td>
 <td><strong>Windhoek Slush'D Pitching Competition</strong><br/>Startup Pitch</td>
 </tr>
 <tr>
-<td align="center"><strong>ðŸ… Top 5</strong></td>
+<td align="center"><strong>🏅 Top 5</strong></td>
 <td><strong>MICT National Mega Hackathon</strong><br/>Public Sector Track</td>
 </tr>
 </table>
 
 ---
 
-## ðŸš€ Klarifi â€” AI Document Intelligence Platform
+## 🚀 Klarifi — AI Document Intelligence Platform
 
-> **Built solo, from zero to production.** Full-stack SaaS for the Namibian market â€” document extraction, multi-tenant auth, admin tooling, transactional email, and a Studio-grade UI. All shipped.
+> **Built solo, from zero to production.** Full-stack SaaS for the Namibian market — document extraction, multi-tenant auth, admin tooling, transactional email, and a Studio-grade UI. All shipped.
 
 <div align="center">
 
@@ -64,14 +64,14 @@
 
 | Area | Feature |
 |---|---|
-| **Core Pipeline** | Parse-once / extract-many â€” schemas re-applied without re-parsing |
-| **Core Pipeline** | NDJSON streaming extraction â€” live UI updates, `done` event handling |
-| **UI/UX** | Dotted canvas Studio workspace â€” production design tool aesthetic |
-| **UI/UX** | Full dark/light theme system â€” CSS variable tokens across the entire app |
+| **Core Pipeline** | Parse-once / extract-many — schemas re-applied without re-parsing |
+| **Core Pipeline** | NDJSON streaming extraction — live UI updates, `done` event handling |
+| **UI/UX** | Dotted canvas Studio workspace — production design tool aesthetic |
+| **UI/UX** | Full dark/light theme system — CSS variable tokens across the entire app |
 | **Schema** | Drag-to-reorder Schema Builder with template library, stored per account |
 | **Storage** | Supabase Storage file preview with Row Level Security |
-| **Auth & Security** | P0 hardening â€” password policy, document auth, session token fixes |
-| **Email** | Transactional email via Resend â€” BIMI-compliant SVG logo, table-based HTML |
+| **Auth & Security** | P0 hardening — password policy, document auth, session token fixes |
+| **Email** | Transactional email via Resend — BIMI-compliant SVG logo, table-based HTML |
 | **Admin** | User management dashboard restricted to admin account |
 | **Testing** | 32-test pytest suite for the extraction pipeline |
 | **SEO** | Per-page meta, OG/Twitter cards, JSON-LD, sitemap, robots.txt |
@@ -80,16 +80,16 @@
 ### Business snapshot
 
 ```
-Starter     N$800/mo  Â·  100 docs
-Business  N$2,500/mo  Â·  500 docs
-Enterprise N$8,000/mo  Â·  Unlimited + API
+Starter     N$800/mo  &middot;  100 docs
+Business  N$2,500/mo  &middot;  500 docs
+Enterprise N$8,000/mo  &middot;  Unlimited + API
 ```
 
-> Data hosted in Cape Town Â· AES-256 at rest Â· TLS 1.3 in transit Â· On-prem option for government
+> Data hosted in Cape Town &middot; AES-256 at rest &middot; TLS 1.3 in transit &middot; On-prem option for government
 
 ---
 
-## ðŸ›  Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
